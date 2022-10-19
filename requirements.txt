@@ -4,5 +4,10 @@ pip install lxml
 pip install requests
 pip install beautifulsoup4
 
+For script3.py
+pip install git+git://github.com/niklasb/webkit-server.git
+pip install xvfbwrapper
+pip install dryscrape
+
 '''
 
